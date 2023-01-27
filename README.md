@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-![Header](/screenshots/header.png)
+![Header](../screenshots/header.png)
 ### Table of content
 
 1. [Description](#description)
@@ -48,8 +48,8 @@
 - Landlord, MultiLingual disaster Response Messages https://www.kaggle.com/datasets/landlord/multilingual-disaster-response-messages
 
 ### Screenshots
-![Ditribution-of-messages](./screenshots/distribution.png)
-![Ditribution-of-disasters](./screenshots/distribution_of_disaster.png)
+![Ditribution-of-messages](../screenshots/distribution.png)
+![Ditribution-of-disasters](../screenshots/distribution_of_disaster.png)
 
 
 
