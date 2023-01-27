@@ -1,4 +1,5 @@
 # Disaster Response Pipeline Project
+![Header](./screenshots/header.png)
 ### Table of content
 
 1. [Description](#description)
@@ -10,7 +11,9 @@
 7. [Screenshots](#screenshots)
 
 ### Description
-This project is in a form of a Web App implemented using python and its libraries, ETL techniques, Machine Learning Models and Flask App to visualize a system that can classify messages sent during disasters and correlate it to various categories in order to facilitate disaster response. It was evaluated by Udacity
+
+
+
 
 ### Dependencies
 - Python 3.5+
@@ -35,13 +38,18 @@ This project is in a form of a Web App implemented using python and its librarie
 4. Click the `PREVIEW` button to open the homepage
 
 ### Authors
-1. Cheruiyot Emmanuel
+- Cheruiyot Emmanuel
 
 ### License
-1. None
+- None
 
 ### Acknowledgements
-1. Udacity
-2. Landlord, MultiLingual disaster Response Messages https://www.kaggle.com/datasets/landlord/multilingual-disaster-response-messages
+- Udacity
+- Landlord, MultiLingual disaster Response Messages https://www.kaggle.com/datasets/landlord/multilingual-disaster-response-messages
+
+### Screenshots
+![Ditribution-of-messages](./screenshots/distribution.png)
+![Ditribution-of-disasters](./screenshots/distribution_of_disaster.png)
+
 
 
