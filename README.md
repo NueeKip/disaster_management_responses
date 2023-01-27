@@ -3,7 +3,7 @@
 
 1. [Description](#description)
 2. [Dependencies](#dependencies)
-3. [Instructions](#running the program)
+3. [Instructions](#instructions)
 4. [Authors](#authors)
 5. (License)(#license)
 6. [Acknowledgement](#acknowledgement)
@@ -30,3 +30,15 @@
 3. Run your web app: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
+
+### Authors
+1. Cheruiyot Emmanuel
+
+### License
+1. None
+
+### Acknowledgements
+1. Udacity
+2. Landlord, MultiLingual disaster Response Messages https://www.kaggle.com/datasets/landlord/multilingual-disaster-response-messages
+
+
