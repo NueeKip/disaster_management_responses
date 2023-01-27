@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-![Header](./screenshots/header.png)
+![Header](/screenshots/header.png)
 ### Table of content
 
 1. [Description](#description)
