@@ -5,9 +5,12 @@
 2. [Dependencies](#dependencies)
 3. [Instructions](#instructions)
 4. [Authors](#authors)
-5. (License)(#license)
+5. [License](#license)
 6. [Acknowledgement](#acknowledgement)
 7. [Screenshots](#screenshots)
+
+### Description
+This project is in a form of a Web App implemented using python and its libraries, ETL techniques, Machine Learning Models and Flask App to visualize a system that can classify messages sent during disasters and correlate it to various categories in order to facilitate disaster response. It was evaluated by Udacity
 
 ### Dependencies
 - Python 3.5+
